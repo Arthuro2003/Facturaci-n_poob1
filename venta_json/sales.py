@@ -9,7 +9,7 @@ yellow_color = "\033[93m"
 blue_color = "\033[94m"
 purple_color = "\033[95m"
 cyan_color = "\033[96m"
-
+#detaller de ventas
 class SaleDetail:
     _line=0
     def __init__(self,product,quantity):
